@@ -1,0 +1,9 @@
+{
+  "ParametrosdeBusqueda": [
+    {
+      "CuitID": "contentPage_cmbCuit",
+      "PuntodeVentaID": "contentPage_cmbPuntoDeVenta"      
+    }
+  ], 
+  
+}
